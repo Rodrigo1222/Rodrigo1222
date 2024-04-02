@@ -1,6 +1,6 @@
-<div aling="center">
+
 ### Hola soy [Rodrigo2212](https://github.com/Rodrigo1222?tab=repositories) 👋
-</div>
+
 [![Mesa-de-trabajo-1.png](https://i.postimg.cc/wBG1Pb4g/Mesa-de-trabajo-1.png)](https://postimg.cc/cKf1tTNb)
   <!--
 **Rodrigo1222/Rodrigo1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
