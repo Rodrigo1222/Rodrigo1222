@@ -24,11 +24,11 @@
 
 - **Languages**:
     
-[![My Skills](https://skillicons.dev/icons?i=py,java,html,git,mysql,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,git,mysql,)](https://skillicons.dev)
 <br>   
 - **Softwares and Tools**:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,idea,github,ai,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,idea,github,ai,ps)](https://skillicons.dev)
 
   <!--
 **Rodrigo1222/Rodrigo1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
