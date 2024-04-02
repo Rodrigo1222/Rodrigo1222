@@ -7,8 +7,8 @@
 <br>
 
 <br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 150px></picture>:
-<h1 align="left"><b>Hi , About me: </b> </h1>
+<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 750px></picture>:
+<h1 align="left"><b>About me: </b> </h2>
 <br>
 
 
