@@ -24,7 +24,7 @@
 
 - **Languages**:
     
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,git,mysql,flutter&perline=3)](https://skillicons.dev)
 <br>   
     
 - **Front-End Development**:
