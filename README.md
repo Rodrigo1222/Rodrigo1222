@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Aldo Mondragón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aldo+o+Rodrigo..&hearts;++;Self-Ing.+En+Tecnologias+y+Sistemas,;Programmer+Student,;active+learner,;always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+En+Tecnologias+y+Sistemas,;Programmer+Student,;active+learner,;always+learning+new+things"></a>
 </p>
 
 [![Mesa-de-trabajo-1.png](https://i.postimg.cc/wBG1Pb4g/Mesa-de-trabajo-1.png)](https://postimg.cc/cKf1tTNb)
