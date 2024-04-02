@@ -14,7 +14,7 @@
 Passionate about the use of self-taught technologies. <br>
 I studied engineering at UVM. <br>
 Currently learning Machine learning on my own <br>
-I am open to an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid <br>
+I am open to an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid) <br>
  </h2>
 
 
