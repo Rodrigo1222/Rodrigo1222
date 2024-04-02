@@ -8,7 +8,7 @@
 
 <br>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px></picture>:
-<h2 align="left"><b>About me: </b> </h2>
+<h1 align="left"><b>About me: </b> </h1>
 
 
 -Passionate about the use of self-taught technologies.<br>
