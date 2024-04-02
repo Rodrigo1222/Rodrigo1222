@@ -9,8 +9,6 @@
 <br>
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px></picture>:
 <h2 align="left"><b>About me: </b> </h2>
-<br>
-
 Passionate about the use of self-taught technologies. <br>
 I studied engineering at UVM. <br>
 Currently learning Machine learning on my own <br>
