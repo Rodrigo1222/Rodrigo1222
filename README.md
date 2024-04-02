@@ -1,8 +1,9 @@
 <h1 align="center"><b>Hi , I'm Aldo Mondragón </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ing.+Technologies+and+Systems+;active+learner;always+learning+new+things)](https://git.io/typing-svg)></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
+
 [![Mesa-de-trabajo-1.png](https://i.postimg.cc/wBG1Pb4g/Mesa-de-trabajo-1.png)](https://postimg.cc/cKf1tTNb)
   <!--
 **Rodrigo1222/Rodrigo1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
