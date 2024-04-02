@@ -11,10 +11,10 @@
 <h2 align="left"><b>About me: </b> </h2>
 <br>
 <h2 align="left">
-Passionate about the use of self-taught technologies.
-I studied engineering at UVM.
-Currently learning Machine learning on my own
-I am open to an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid
+Passionate about the use of self-taught technologies. <br>
+I studied engineering at UVM. <br>
+Currently learning Machine learning on my own <br>
+I am open to an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid <br>
  </h2>
 
 
