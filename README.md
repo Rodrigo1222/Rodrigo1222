@@ -10,12 +10,13 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 75px></picture>:
 <h2 align="left"><b>About me: </b> </h2>
 
+<br>
 Passionate about the use of self-taught technologies.
 I studied engineering at UVM.
 Currently learning Machine learning on my own
 I am open to an internship or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
-
+<br><br>
 
   <!--
 **Rodrigo1222/Rodrigo1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
