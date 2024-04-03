@@ -25,7 +25,7 @@
     
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,git,mysql,)](https://skillicons.dev)
 <br>   
-- **Softwares and Tools**:
+- **Softwares y herramienas.**:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,idea,github,ai,ps)](https://skillicons.dev)
 
