@@ -12,8 +12,8 @@
 
 -Apasionado por el uso de tecnologías de forrma autodidacta.<br>
 -Estudio ingeniería en la UVM.<br>
--Actualmente estoy aprendiendo Machinne Learning por mi cuenta.<br>
--Estoy abierto a una pasantía o una nueva oportunidad laboral, este es [Curriculum.](https://1drv.ms/b/s!ArqfiL1Bilotg0yZZS2b58Qs9wt_?e=Xa6Zty).
+-Me especializo en el analisis de datos pero tambien etoy aprendiendo algo de Machinne Learning por mi cuenta.<br>
+ [Curriculum.](https://1drv.ms/b/s!ArqfiL1Bilotg0yZZS2b58Qs9wt_?e=Xa6Zty).
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades:</b>
