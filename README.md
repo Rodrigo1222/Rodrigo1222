@@ -27,7 +27,7 @@
 <br>   
 - **Softwares y herramienas.**:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,idea,github,ai,ps,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,sqlite,idea,github,ai,ps,gcp,looker)](https://skillicons.dev)
 
   <!--
 **Rodrigo1222/Rodrigo1222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
